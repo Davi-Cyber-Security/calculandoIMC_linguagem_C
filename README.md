@@ -43,12 +43,13 @@ Este projeto é uma aplicação simples desenvolvida em linguagem **C** que real
 ## ▶️ Como executar
 
 1. Compile o programa:
-```bash
+
 gcc imc.c -o imc
 ./imc
 2. Ou rode em alguma IDE C gratuito na internet online
 3. Ou baixe alguma IDE C para testar
 
+```bash
 ---
 ## 📄 Licença e Responsabilidade
 
@@ -65,6 +66,7 @@ Este projeto está licenciado sob os termos da [MIT License](./LICENSE).
 
 Você tem total liberdade para estudar, adaptar, reutilizar ou incorporar este código em projetos próprios, desde que mantenha os créditos e o aviso de licença.
 
+```
 
 ✨ Autor
 Desenvolvido por Davi-Cyber-Security
