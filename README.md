@@ -52,8 +52,9 @@ gcc imc.c -o imc
 
 ---
 ## 📄 Licença e Responsabilidade
+- Este projeto está licenciado sob os termos da [MIT License](./LICENSE).
+
 ```bash
-Este projeto está licenciado sob os termos da [MIT License](./LICENSE).
 
 > ⚠️ **Aviso de Responsabilidade:**  
 > Este código foi **testado, validado e aprovado** com base em entradas corretas e uso adequado.  
